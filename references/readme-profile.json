@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 199｜Bright Airy Miniature Fashion Collage: turns a photo's subject into small surreal conceptual fashion figures, stressing outline, garments, pose and silhouette (non-human subjects become a fashion-like main figure), set like floating specimens in a large field of clean warm white, weightless or pulled by thin lines but with a clear centre of gravity. Layers are combined like editorial digital collage with fine, clean halftone dots and only light ink wear. Colours are the brightest of the photo, clear sky blue, lake teal, fresh green, warm yellow, coral orange and peach pink, with sunny orange or soft pink accents and a few quiet titles or notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-199 or asks for bright, airy, small-scale floating fashion collage or halftone fashion illustration from a photo.",
+  "short_description": "明快留白时装拼贴：把照片主体缩成漂浮的小尺度时装插画形象，大片暖白留白，明亮清爽配色",
+  "zh-CN": {
+    "name": "明快留白时装拼贴",
+    "tagline": "把照片主体缩成几枚漂浮的小尺度时装插画形象，放在大片明亮的暖白里。",
+    "look": "主体被画成概念时装插画，强调轮廓、服饰、姿态和剪影，身体可以拉长、压缩或悬吊；不是人物的主体也会变成有时装感的主形象。形象缩得很小，像一组被安放在版面里的视觉标本或漂浮角色，可以失重、被细线牵引、高低错落，但重心清楚，周围是大量纯净暖白。网点和丝网印刷颗粒细腻清爽，只有轻微掉墨和纸感。颜色取照片里最明亮的天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，局部用暖橙或柔粉点睛，文字是少量安静的小标题和注释。",
+    "traits": [
+      "小尺度主体",
+      "大片留白",
+      "失重时装插画",
+      "细腻网点",
+      "明快配色"
+    ],
+    "good": [
+      "穿着鲜亮、姿态轻盈的人物照：跳跃、奔跑、转身、撑伞",
+      "色彩明亮的户外照：海边、草地、夏日街头",
+      "想做轻快的时尚杂志插页、海报或社交媒体头图的照片"
+    ],
+    "poor": [
+      "需要人物大而清楚、细节丰富的照片：脸部特写、妆容展示",
+      "本身沉暗厚重、希望保留这种气氛的照片：夜景、雨天老街，结果会被明显提亮",
+      "想要满版拼贴、浓重做旧或暗沉色调的需求"
+    ]
+  },
+  "en": {
+    "name": "Bright Airy Miniature Fashion Collage",
+    "tagline": "Shrinks a photo's subject into small floating fashion figures set in wide, bright warm white.",
+    "look": "The subject is drawn as a conceptual fashion illustration, stressing outline, clothing, pose and silhouette; bodies can be stretched, compressed or hung, and a subject that is not a person becomes a main figure with a fashion-editorial feel. The figures are made very small, like visual specimens or floating characters set on the page; they can be weightless, pulled by thin lines and placed at different heights, but the centre of gravity stays clear, with plenty of clean warm white around them. Halftone dots and screen-print grain are fine and fresh, with only light ink wear and paper feel. Colours are the brightest in the photo, sky blue, lake teal, fresh green, warm yellow, coral orange and peach pink, with a touch of warm orange or soft pink, and text is a few quiet small titles and notes.",
+    "traits": [
+      "Small-scale figures",
+      "Wide whitespace",
+      "Weightless fashion",
+      "Fine halftone",
+      "Bright palette"
+    ],
+    "good": [
+      "Photos of people in bright clothes with light poses: jumping, running, turning, holding an umbrella",
+      "Bright outdoor photos: the seaside, a lawn, a summer street",
+      "Photos you want as a light fashion-magazine insert, poster or social media header"
+    ],
+    "poor": [
+      "Photos that need a large, sharp, detailed person: face close-ups, make-up shots",
+      "Dark, heavy photos whose mood you want to keep, such as night scenes or old streets in the rain, since the result is clearly brightened",
+      "Requests for full-frame collage, heavy distressing or dim colours"
+    ]
+  },
+  "ja": {
+    "name": "明るく余白豊かな小型ファッションコラージュ",
+    "tagline": "写真の主役を宙に浮かぶ小さなファッションイラストの姿にし、明るく温かな白の大きな余白に置きます。",
+    "look": "主役はコンセプチュアルなファッションイラストとして描かれ、輪郭、服、ポーズ、シルエットが強調されます。体は引き伸ばしたり、縮めたり、吊り下げたりでき、人物でない主役もファッション誌らしい主役像になります。姿はごく小さく、画面に置かれた標本や浮遊するキャラクターのようで、無重力で浮いたり細い糸に引かれたり高さを変えたりしながらも、重心ははっきりしています。周りは澄んだ温かな白がたっぷりです。網点やシルクスクリーンの粒子は細かく軽やかで、インクのかすれや紙の感触はわずかです。色は写真の中でいちばん明るい空色、湖の青緑、若葉色、暖かな黄、コーラルオレンジ、ピーチピンクで、暖かな橙や柔らかなピンクを差し、文字は静かな小見出しと注記を少しだけ置きます。",
+    "traits": [
+      "小さな主役",
+      "広い余白",
+      "無重力のファッション",
+      "細かな網点",
+      "明るい配色"
+    ],
+    "good": [
+      "明るい服で軽やかなポーズの人物写真：ジャンプ、走る、振り向く、傘をさす",
+      "色の明るい屋外の写真：海辺、芝生、夏の街角",
+      "軽やかなファッション誌の挿し込みページ、ポスター、SNS のヘッダーにしたい写真"
+    ],
+    "poor": [
+      "人物を大きく鮮明に細部まで見せたい写真：顔のアップ、メイクの見せ写真",
+      "暗く重い雰囲気を残したい写真：夜景、雨の古い街並みは、はっきり明るく仕上がります",
+      "全面のコラージュ、強い古び加工、暗い色調を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "밝고 여백이 넓은 미니 패션 콜라주",
+    "tagline": "사진의 주인공을 떠다니는 작은 패션 일러스트 형상 몇 개로 줄여 밝고 따뜻한 흰 여백에 놓습니다.",
+    "look": "주인공은 개념 패션 일러스트로 그려져 윤곽, 옷, 자세, 실루엣이 강조되고, 몸은 늘이거나 줄이거나 매달 수 있으며, 사람이 아닌 주인공도 패션 화보 느낌의 주인공 형상이 됩니다. 형상은 아주 작아 화면에 놓인 시각 표본이나 떠다니는 캐릭터 같고, 무중력으로 뜨거나 가는 줄에 이끌리거나 높낮이를 달리해도 중심은 분명하며, 둘레에는 맑고 따뜻한 흰색이 넉넉합니다. 망점과 실크스크린 입자는 섬세하고 산뜻하며 잉크 빠짐과 종이 느낌은 가볍습니다. 색은 사진에서 가장 밝은 하늘색, 호수 청록, 연두, 따뜻한 노랑, 코랄 오렌지, 복숭아 분홍이고, 따뜻한 주황이나 부드러운 분홍으로 포인트를 주며, 글자는 조용한 작은 제목과 주석 몇 개입니다.",
+    "traits": [
+      "작은 주인공",
+      "넓은 여백",
+      "무중력 패션",
+      "섬세한 망점",
+      "밝은 배색"
+    ],
+    "good": [
+      "밝은 옷과 가벼운 자세의 인물 사진: 점프, 달리기, 돌아보기, 우산 쓰기",
+      "색이 밝은 야외 사진: 바닷가, 잔디밭, 여름 거리",
+      "가벼운 패션 잡지 삽지, 포스터, SNS 헤더로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "인물이 크고 선명하며 디테일이 풍부해야 하는 사진: 얼굴 클로즈업, 메이크업 사진",
+      "어둡고 무거운 분위기를 지키고 싶은 사진: 야경, 비 오는 옛 거리는 결과가 확연히 밝아집니다",
+      "꽉 찬 콜라주, 짙은 빈티지 처리, 어두운 색조를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج أزياء مصغر مشرق وواسع الفراغ",
+    "tagline": "يصغّر عنصر الصورة إلى بضع شخصيات صغيرة طافية بأسلوب رسوم الأزياء، وسط أبيض دافئ مشرق وواسع.",
+    "look": "يُرسم العنصر رسماً مفاهيمياً للأزياء يبرز الحدود والملابس والوضعية والظل؛ ويمكن إطالة الأجسام أو ضغطها أو تعليقها، وحتى العنصر غير البشري يصبح شخصية رئيسية بروح مجلات الأزياء. تُصغَّر الشخصيات كثيراً، كأنها عينات بصرية أو شخصيات طافية موضوعة على الصفحة؛ قد تكون بلا وزن أو تشدها خيوط رفيعة أو تتوزع على ارتفاعات مختلفة، لكن مركز الثقل يبقى واضحاً، مع كثير من الأبيض الدافئ النقي حولها. نقاط الطباعة النصفية وحبيبات الطباعة الحريرية دقيقة ومنعشة، مع أثر خفيف فقط لتآكل الحبر وملمس الورق. الألوان أزهى ما في الصورة: أزرق سماوي وفيروزي البحيرة وأخضر غض وأصفر دافئ وبرتقالي مرجاني ووردي خوخي، مع لمسة برتقالي دافئ أو وردي ناعم، والنص عناوين صغيرة هادئة وملاحظات قليلة.",
+    "traits": [
+      "شخصيات صغيرة",
+      "فراغ واسع",
+      "أزياء بلا وزن",
+      "نقاط نصفية دقيقة",
+      "ألوان زاهية"
+    ],
+    "good": [
+      "صور أشخاص بملابس زاهية ووضعيات خفيفة: القفز، الركض، الالتفات، حمل مظلة",
+      "صور خارجية مشرقة الألوان: شاطئ البحر، مرج، شارع صيفي",
+      "صور تريدها صفحة خفيفة في مجلة أزياء أو ملصقاً أو صورة رأسية لوسائل التواصل"
+    ],
+    "poor": [
+      "صور تحتاج إلى شخص كبير وواضح وغني بالتفاصيل: لقطات الوجه القريبة، صور المكياج",
+      "صور داكنة ثقيلة تريد الحفاظ على جوها، مثل المشاهد الليلية أو الشوارع القديمة تحت المطر، لأن النتيجة تصبح أكثر إشراقاً بوضوح",
+      "طلب كولاج يملأ الإطار أو تعتيق كثيف أو ألوان قاتمة"
+    ]
+  }
+}
